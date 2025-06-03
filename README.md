@@ -13,5 +13,3 @@ Crate Rust fournissant une macro `hashmap` pour créer un `HashMap` avec des pai
 Crée un `HashMap` avec des paires clé-valeur données.
 
 ---
-
-*API documentation générée par rustdoc.*
